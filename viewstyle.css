@@ -1,0 +1,10 @@
+ #view_table
+ {
+	 border-style:solid;
+	 border-color:marron;
+	 width:500px;
+ }
+ #view_table tr
+ {
+	 background-color:green;
+ }
